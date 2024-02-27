@@ -12,6 +12,7 @@ if ($conn) {
     echo "yeah boi!";
 }else {
     echo "Connection failed successfully";
+    echo "Connection failed successfully";
 
 }
 
